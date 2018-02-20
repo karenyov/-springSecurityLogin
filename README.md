@@ -19,3 +19,7 @@ git clone https://github.com/karenyov/springSecurityLogin.git
 
 * Import into Eclipse as “Existing Maven Project”:
 Go in File > Import > Maven > Existing Maven Project and click Next, select the project and click in Finished.
+
+
+# Database
+* Create your database in Mysql ou PostgreSQL and configure in application.properties
